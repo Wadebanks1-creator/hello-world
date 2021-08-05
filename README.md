@@ -1,4 +1,5 @@
 # hello-world
 new repository
-I am new to github, and I lok forward to meeting new people
-I'm self-taught, but I'm now taking a javascript course on MDN.
+My name is Wade 
+I am new to github, and I look forward to meeting new people.
+I'm self-taught in HTML,CSS and Javascript and  I'm now taking a front-end  course on MDN.
